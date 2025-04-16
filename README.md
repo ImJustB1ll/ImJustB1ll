@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImJustB1ll
 - 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning Unity also IT Support and Hardware related stuff
-- 💞️ I’m looking to collaborate on Game Project
+- 🌱 I’m currently learning IT Support and Hardware related stuff also Game Development 
+- 💞️ I’m looking to collaborate on Game Project or as IT Support
 - 📫 Reach Me via mail at jouaqinbillyibrahim@gmail.com
